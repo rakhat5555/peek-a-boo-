@@ -1,0 +1,45 @@
+#initial-show{
+  display: none;
+}
+
+#initial-show-two {
+  display: none;
+}
+
+
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-blue {
+  cursor: pointer;
+  color: red;
+}
+
+.clickable-yellow {
+  cursor: pointer;
+  color: grey;
+}
+.clickable-grey {
+  cursor: pointer;
+  color: white;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.grey-background {
+  background-color: grey;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.blue-background {
+  background-color: blue;
+  color: white;
+}
